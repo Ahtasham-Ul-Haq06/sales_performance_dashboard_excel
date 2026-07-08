@@ -64,7 +64,7 @@ The final dashboard includes:
 - **Pie Chart:** Payment Status distribution
 - **Slicers:** Region, Product Category, Sales Person, Payment Status
 
-![Dashboard Preview]()
+![Dashboard Preview](dashboard_preview.PNG)
 
 ## How to Run this Project?
 1. Download or clone this repository.
@@ -85,8 +85,6 @@ This project successfully transforms raw, unstructured sales data into a clean, 
 
 ## Author & Contact
 **Ahtasham Ul Haq**
-Data Analyst
-
 - 📧 Email: ahtashamulhaq2006@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/ahtasham-ul-haq-6647973a3
 
