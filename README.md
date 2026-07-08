@@ -68,7 +68,7 @@ The final dashboard includes:
 
 ## How to Run this Project?
 1. Download or clone this repository.
-2. Open the file `` in Microsoft Excel (2016 or later recommended for full slicer support).
+2. Open the file `sales_performance_dashboard.xlsx` in Microsoft Excel (2016 or later recommended for full slicer support).
 3. Navigate to the **Dashboard** sheet to view the interactive dashboard.
 4. Use the slicers (Region, Product Category, Sales Person, Payment Status) to filter and explore the data dynamically.
 5. Explore the underlying **Sales_Data** and **Pivot** sheets to understand the data structure and calculations behind the dashboard.
